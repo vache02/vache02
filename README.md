@@ -1,6 +1,6 @@
 ## Hi there,I'm Davit! 👋
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=vache02&show_icons=true&theme=dark" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vache02&layout=compact" />
 
 
