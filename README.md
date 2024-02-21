@@ -1,7 +1,7 @@
 ## Hi there,I'm Davit! 👋
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=vache02&show_icons=true&theme=dark" />
-<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vache02&layout=compact" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vache02&layout=compact" />
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)\
