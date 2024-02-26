@@ -1,7 +1,7 @@
 ## Hi there,I'm Davit Vacheishvili! 👋
 👨‍💻 Front-end Developer <br/>
 
-🌐 [Portfolio](https://app.netlify.com/sites/vache-portfolio/overview)
+🌐 [Portfolio](https://vache-portfolio.netlify.app/)
 
 ## 🖥️ Tech Skills
 
