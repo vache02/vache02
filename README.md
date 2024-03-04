@@ -25,7 +25,7 @@
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
 ## 📈 Github Stats
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=vache02&show_icons=true&theme=merko" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=vache02&show_icons=true&theme=dark" />
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vache02&layout=compact" />
 
 
