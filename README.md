@@ -1,5 +1,5 @@
 ## Hi there,I'm Davit Vacheishvili! 👋
-👨‍💻 Front-end Developer <br/>
+👨‍💻 QA Tester <br/>
 
 🌐 [Portfolio](https://vache-portfolio.netlify.app/)
 
